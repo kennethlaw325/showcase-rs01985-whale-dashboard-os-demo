@@ -1,0 +1,110 @@
+{
+  "generatedAt": "2026-09-08T16:51:29.918Z",
+  "personal": {
+    "currentMonth": "2026-05",
+    "previousMonth": "2026-04",
+    "currentTotalAud": 178.4,
+    "previousTotalAud": 65.5,
+    "topCategories": [
+      {
+        "category": "餐飲",
+        "totalAud": 80
+      },
+      {
+        "category": "軟件訂閱",
+        "totalAud": 61
+      },
+      {
+        "category": "交通",
+        "totalAud": 22.4
+      },
+      {
+        "category": "雲端服務",
+        "totalAud": 15
+      }
+    ],
+    "parsedRows": 9,
+    "skippedRows": 0,
+    "sourceStatus": "ok"
+  },
+  "whale": {
+    "currentMonth": "2026-05",
+    "income": {
+      "entries": [
+        {
+          "date": "2026-05-08",
+          "item": "示範公司 A · 官網第一期",
+          "amountAud": 3200,
+          "note": "已收",
+          "inCurrentMonth": true
+        },
+        {
+          "date": "2026-05-19",
+          "item": "示範小店 B · 品牌識別",
+          "amountAud": 1800,
+          "note": "已收",
+          "inCurrentMonth": true
+        },
+        {
+          "date": "2026-05-24",
+          "item": "示範公司 C · 訂位系統第一期",
+          "amountAud": 2400,
+          "note": "已收",
+          "inCurrentMonth": true
+        },
+        {
+          "date": "2026-04-27",
+          "item": "示範公司 A · 顧問時數",
+          "amountAud": 950,
+          "note": "上月",
+          "inCurrentMonth": false
+        }
+      ],
+      "currentMonthTotalAud": 7400
+    },
+    "costs": {
+      "entries": [
+        {
+          "date": "每月",
+          "item": "設計工具",
+          "amountAud": 32,
+          "note": "",
+          "inCurrentMonth": true
+        },
+        {
+          "date": "每月",
+          "item": "排程工具",
+          "amountAud": 29,
+          "note": "",
+          "inCurrentMonth": true
+        },
+        {
+          "date": "每月",
+          "item": "雲端寄存",
+          "amountAud": 15,
+          "note": "",
+          "inCurrentMonth": true
+        },
+        {
+          "date": "2026-05-12",
+          "item": "字型授權",
+          "amountAud": 120,
+          "note": "一次性",
+          "inCurrentMonth": true
+        },
+        {
+          "date": "2026-05-21",
+          "item": "外判插圖",
+          "amountAud": 260,
+          "note": "一次性",
+          "inCurrentMonth": true
+        }
+      ],
+      "currentMonthTotalAud": 456
+    },
+    "netCurrentMonthAud": 6944,
+    "skippedRows": 0,
+    "sourceStatus": "ok",
+    "rawFallback": ""
+  }
+}

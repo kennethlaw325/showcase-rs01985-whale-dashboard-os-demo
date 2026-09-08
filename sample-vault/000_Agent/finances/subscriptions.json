@@ -1,0 +1,11 @@
+{
+  "updatedAt": "2026-05-25",
+  "source": "sample",
+  "totalMonthly": 88,
+  "items": [
+    { "name": "設計工具", "amountMonthly": 32, "currency": "AUD", "source": "email agent(示範)" },
+    { "name": "排程工具", "amountMonthly": 29, "currency": "AUD", "source": "email agent(示範)" },
+    { "name": "雲端寄存", "amountMonthly": 15, "currency": "AUD", "source": "email agent(示範)" },
+    { "name": "字型授權", "amountMonthly": 12, "currency": "AUD", "source": "手動記錄(示範)" }
+  ]
+}

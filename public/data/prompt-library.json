@@ -1,0 +1,82 @@
+[
+  {
+    "id": "claude-prompt-library-報價兩檔方案",
+    "title": "報價兩檔方案",
+    "category": "客戶與銷售",
+    "department": "sales",
+    "summary": "同一個需求出高低兩檔,唔出是非題",
+    "when": "客戶問價,但範圍未收窄",
+    "inputs": "需求原話、可交付項目、時間限制",
+    "source": "Claude Prompt Library"
+  },
+  {
+    "id": "claude-prompt-library-客戶回訪清單",
+    "title": "客戶回訪清單",
+    "category": "客戶與銷售",
+    "department": "sales",
+    "summary": "篩出有再合作訊號嘅舊客,排跟進次序",
+    "when": "手上冇新查詢,要自己開單",
+    "inputs": "舊客名單同最後一次接觸日期",
+    "source": "Claude Prompt Library"
+  },
+  {
+    "id": "claude-prompt-library-一題變一週",
+    "title": "一題變一週",
+    "category": "內容與社群",
+    "department": "ig-marketing",
+    "summary": "由一個題目排出一星期貼文骨架",
+    "when": "內容排程見底",
+    "inputs": "題目、平台、目標受眾",
+    "source": "Claude Prompt Library"
+  },
+  {
+    "id": "claude-prompt-library-hook-三選一",
+    "title": "Hook 三選一",
+    "category": "內容與社群",
+    "department": "ig-marketing",
+    "summary": "同一內容寫三個開場,俾你揀",
+    "when": "內容寫好但開場唔夠力",
+    "inputs": "內文草稿、想帶嚟嘅行動",
+    "source": "Claude Prompt Library"
+  },
+  {
+    "id": "claude-prompt-library-數字問出處",
+    "title": "數字問出處",
+    "category": "研究與情報",
+    "department": "seo-blog",
+    "summary": "逐個數字追返來源,冇出處就標出嚟",
+    "when": "出街前最後一關",
+    "inputs": "要檢查嘅草稿",
+    "source": "Claude Prompt Library"
+  },
+  {
+    "id": "claude-prompt-library-對手快掃",
+    "title": "對手快掃",
+    "category": "研究與情報",
+    "department": "seo-blog",
+    "summary": "三個對手嘅定位同價位,列成一張表",
+    "when": "準備報價或者改定位",
+    "inputs": "對手名單、你自己嘅定位",
+    "source": "Claude Prompt Library"
+  },
+  {
+    "id": "claude-prompt-library-月費工具清單",
+    "title": "月費工具清單",
+    "category": "財務與行政",
+    "department": "internal-audit",
+    "summary": "列晒訂閱、月費同用唔用得着",
+    "when": "每季清一次單",
+    "inputs": "信用卡月結單或者訂閱記錄",
+    "source": "Claude Prompt Library"
+  },
+  {
+    "id": "claude-prompt-library-對單三邊夾",
+    "title": "對單三邊夾",
+    "category": "財務與行政",
+    "department": "internal-audit",
+    "summary": "報價、發票、實收三邊對數",
+    "when": "月尾埋數",
+    "inputs": "報價單、發票、銀行入賬記錄",
+    "source": "Claude Prompt Library"
+  }
+]

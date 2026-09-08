@@ -1,0 +1,124 @@
+{
+  "ceo": {
+    "name": "Demo User",
+    "role": "CEO · 決定方向與最後批准"
+  },
+  "coAi": [
+    {
+      "name": "Codex",
+      "role": "Co-AI · 系統、資料與實作",
+      "focus": "把已批准的工作做成可驗證成果"
+    },
+    {
+      "name": "Claude Code",
+      "role": "Co-AI · 規劃、研究與內容",
+      "focus": "把問題整理成可執行方案與初稿"
+    }
+  ],
+  "pms": [
+    {
+      "id": "sales",
+      "name": "Sales",
+      "emoji": "🤝",
+      "mission": "把有價值的客戶訊號，變成清楚、可跟進的下一步。",
+      "skillCount": 1,
+      "capabilityAgents": [
+        "客戶 CRM 跟進"
+      ],
+      "pulse": {
+        "level": "active",
+        "lastCommitISO": "2026-09-09T00:47:09+08:00",
+        "lastCommitSubject": "Dot.ai AI Builder 學生作品展示版（2026-09-09 r13：demo-ability）"
+      }
+    },
+    {
+      "id": "ig-marketing",
+      "name": "IG & Marketing",
+      "emoji": "📣",
+      "mission": "把品牌內容與市場訊號，變成穩定的曝光與互動。",
+      "skillCount": 1,
+      "capabilityAgents": [
+        "內容創作"
+      ],
+      "pulse": {
+        "level": "active",
+        "lastCommitISO": "2026-09-09T00:47:09+08:00",
+        "lastCommitSubject": "Dot.ai AI Builder 學生作品展示版（2026-09-09 r13：demo-ability）"
+      }
+    },
+    {
+      "id": "seo-blog",
+      "name": "SEO & Blog",
+      "emoji": "🔎",
+      "mission": "把搜尋與內容資料，變成長期可見度和可信度。",
+      "skillCount": 1,
+      "capabilityAgents": [
+        "Trend Research"
+      ],
+      "pulse": {
+        "level": "active",
+        "lastCommitISO": "2026-09-09T00:47:09+08:00",
+        "lastCommitSubject": "Dot.ai AI Builder 學生作品展示版（2026-09-09 r13：demo-ability）"
+      }
+    },
+    {
+      "id": "website-system",
+      "name": "Website & System",
+      "emoji": "🛠️",
+      "mission": "把網站、工具與自動化，變成可靠、可維護的系統。",
+      "skillCount": 1,
+      "capabilityAgents": [
+        "Data Consolidation"
+      ],
+      "pulse": {
+        "level": "active",
+        "lastCommitISO": "2026-09-09T00:47:09+08:00",
+        "lastCommitSubject": "Dot.ai AI Builder 學生作品展示版（2026-09-09 r13：demo-ability）"
+      }
+    },
+    {
+      "id": "production",
+      "name": "Production",
+      "emoji": "🏗️",
+      "mission": "把策略與資料，整理成可交付、可覆核的作品。",
+      "skillCount": 2,
+      "capabilityAgents": [
+        "會議整理",
+        "文書處理",
+        "WhatsApp 私人秘書"
+      ],
+      "pulse": {
+        "level": "active",
+        "lastCommitISO": "2026-09-09T00:47:09+08:00",
+        "lastCommitSubject": "Dot.ai AI Builder 學生作品展示版（2026-09-09 r13：demo-ability）"
+      }
+    },
+    {
+      "id": "internal-audit",
+      "name": "Internal Audit",
+      "emoji": "🛡️",
+      "mission": "守住資料、流程與品質，讓每個決定可回查。",
+      "skillCount": 1,
+      "capabilityAgents": [
+        "Project Manager",
+        "Finance",
+        "Excel 數據分析"
+      ],
+      "pulse": {
+        "level": "active",
+        "lastCommitISO": "2026-09-09T00:47:09+08:00",
+        "lastCommitSubject": "Dot.ai AI Builder 學生作品展示版（2026-09-09 r13：demo-ability）"
+      }
+    }
+  ],
+  "capabilityPool": {
+    "skillTotal": 7,
+    "pmOwnedTotal": 7,
+    "ceoDirectTotal": 0,
+    "promptTotal": 8,
+    "courseTemplateTotal": 10,
+    "note": "自家 skills 一人一 owner(1:1)歸六 PM;外掛(plugin)skills 唔入 PM 池,CEO 直接用。課程 10 位員工只保留作示範模板。"
+  },
+  "note": "Whale 的實際管理層是 CEO、兩位 Co-AI 和六位部門 PM。課程的 10 位員工不是 Demo User 的直屬員工，也不是能力池總數。",
+  "lastSyncedAt": "2026-09-08T16:51:30.587Z"
+}

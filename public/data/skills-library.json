@@ -1,0 +1,170 @@
+[
+  {
+    "id": "client-followup-1",
+    "name": "client-followup",
+    "category": "Whale 營運",
+    "department": "sales",
+    "source": "自家",
+    "sourcePath": "000_Agent/skills/client-followup/SKILL.md",
+    "what": "幫 Sales 處理「Whale 營運」類工作，將模糊工作變成可覆核的下一步。",
+    "when": "當你要處理「client-followup」相關工作，而且已有足夠資料讓 AI 不用猜測時使用。",
+    "inputs": "客戶背景、已核實事實，以及你想推進的下一步",
+    "steps": [
+      "先講清楚你要的結果",
+      "叫 AI 使用 /client-followup",
+      "檢查輸出是否有來源、假設或待確認項",
+      "確認後才交給下一個 skill 或真人執行"
+    ],
+    "output": "一份清楚的客戶下一步、研究摘要或銷售素材。",
+    "links": [
+      "/client",
+      "/restaurant-research",
+      "/value-story"
+    ],
+    "description": "睇邊個客好耐冇覆,排跟進次序"
+  },
+  {
+    "id": "content-planner-1",
+    "name": "content-planner",
+    "category": "內容與社群",
+    "department": "ig-marketing",
+    "source": "自家",
+    "sourcePath": "000_Agent/skills/content-planner/SKILL.md",
+    "what": "幫 IG & Marketing 處理「內容與社群」類工作，將模糊工作變成可覆核的下一步。",
+    "when": "當你要處理「content-planner」相關工作，而且已有足夠資料讓 AI 不用猜測時使用。",
+    "inputs": "內容目標、目標受眾、品牌語氣與已有素材",
+    "steps": [
+      "先講清楚你要的結果",
+      "叫 AI 使用 /content-planner",
+      "檢查輸出是否有來源、假設或待確認項",
+      "確認後才交給下一個 skill 或真人執行"
+    ],
+    "output": "一份可審閱的內容、策略或成效重點。",
+    "links": [
+      "/whale-post-pipeline",
+      "/card-studio",
+      "/ig-loop"
+    ],
+    "description": "由一個題目排出一星期內容"
+  },
+  {
+    "id": "data-check-1",
+    "name": "data-check",
+    "category": "研究與情報",
+    "department": "seo-blog",
+    "source": "自家",
+    "sourcePath": "000_Agent/skills/data-check/SKILL.md",
+    "what": "幫 SEO & Blog 處理「研究與情報」類工作，將模糊工作變成可覆核的下一步。",
+    "when": "當你要處理「data-check」相關工作，而且已有足夠資料讓 AI 不用猜測時使用。",
+    "inputs": "網站／主題／資料來源；沒有證據的地方要保留待確認",
+    "steps": [
+      "先講清楚你要的結果",
+      "叫 AI 使用 /data-check",
+      "檢查輸出是否有來源、假設或待確認項",
+      "確認後才交給下一個 skill 或真人執行"
+    ],
+    "output": "一份有來源、可採納或退回的 SEO／研究結果。",
+    "links": [
+      "/web-research",
+      "/seo-tasks",
+      "/speak-human-tw"
+    ],
+    "description": "逐個數字問返出處,冇出處就標出嚟"
+  },
+  {
+    "id": "meeting-notes-1",
+    "name": "meeting-notes",
+    "category": "辦公室工作流",
+    "department": "production",
+    "source": "自家",
+    "sourcePath": "000_Agent/skills/meeting-notes/SKILL.md",
+    "what": "幫 Production 處理「辦公室工作流」類工作，將模糊工作變成可覆核的下一步。",
+    "when": "當你要處理「meeting-notes」相關工作，而且已有足夠資料讓 AI 不用猜測時使用。",
+    "inputs": "已核實內容、品牌規範、交付格式與使用情境",
+    "steps": [
+      "先講清楚你要的結果",
+      "叫 AI 使用 /meeting-notes",
+      "檢查輸出是否有來源、假設或待確認項",
+      "確認後才交給下一個 skill 或真人執行"
+    ],
+    "output": "一份可交付、可人手檢查的文字／視覺／文件成品。",
+    "links": [
+      "/brand-identity",
+      "/speak-human-tw",
+      "/wr-design-qa"
+    ],
+    "description": "會議原始筆記 → 摘要 + 跟進事項"
+  },
+  {
+    "id": "report-writer-1",
+    "name": "report-writer",
+    "category": "辦公室工作流",
+    "department": "production",
+    "source": "自家",
+    "sourcePath": "000_Agent/skills/report-writer/SKILL.md",
+    "what": "幫 Production 處理「辦公室工作流」類工作，將模糊工作變成可覆核的下一步。",
+    "when": "當你要處理「report-writer」相關工作，而且已有足夠資料讓 AI 不用猜測時使用。",
+    "inputs": "已核實內容、品牌規範、交付格式與使用情境",
+    "steps": [
+      "先講清楚你要的結果",
+      "叫 AI 使用 /report-writer",
+      "檢查輸出是否有來源、假設或待確認項",
+      "確認後才交給下一個 skill 或真人執行"
+    ],
+    "output": "一份可交付、可人手檢查的文字／視覺／文件成品。",
+    "links": [
+      "/brand-identity",
+      "/speak-human-tw",
+      "/wr-design-qa"
+    ],
+    "description": "將散亂數據寫成客戶睇得明嘅月報"
+  },
+  {
+    "id": "site-check-1",
+    "name": "site-check",
+    "category": "開發",
+    "department": "website-system",
+    "source": "自家",
+    "sourcePath": "000_Agent/skills/site-check/SKILL.md",
+    "what": "幫 Website & System 處理「開發」類工作，將模糊工作變成可覆核的下一步。",
+    "when": "當你要處理「site-check」相關工作，而且已有足夠資料讓 AI 不用猜測時使用。",
+    "inputs": "要解決的問題、現有程式或系統位置、驗收方式",
+    "steps": [
+      "先講清楚你要的結果",
+      "叫 AI 使用 /site-check",
+      "檢查輸出是否有來源、假設或待確認項",
+      "確認後才交給下一個 skill 或真人執行"
+    ],
+    "output": "一份可測試的系統方案、程式或技術檢查結果。",
+    "links": [
+      "/brainstorm",
+      "/frontend-design",
+      "/codex-second-opinion"
+    ],
+    "description": "出街前逐版檢查連結、圖同載入速度"
+  },
+  {
+    "id": "invoice-check-1",
+    "name": "invoice-check",
+    "category": "財務與行政",
+    "department": "internal-audit",
+    "source": "自家",
+    "sourcePath": "000_Agent/skills/invoice-check/SKILL.md",
+    "what": "幫 Internal Audit 處理「財務與行政」類工作，將模糊工作變成可覆核的下一步。",
+    "when": "當你要處理「invoice-check」相關工作，而且已有足夠資料讓 AI 不用猜測時使用。",
+    "inputs": "來源資料、範圍、負責人與人手覆核要求",
+    "steps": [
+      "先講清楚你要的結果",
+      "叫 AI 使用 /invoice-check",
+      "檢查輸出是否有來源、假設或待確認項",
+      "確認後才交給下一個 skill 或真人執行"
+    ],
+    "output": "一份可核對的流程、檢查結果或管理摘要。",
+    "links": [
+      "/brainstorm",
+      "/wr-seven-layer-qa",
+      "/session-note"
+    ],
+    "description": "對單:報價、發票、實收三邊夾唔夾得埋"
+  }
+]

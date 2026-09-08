@@ -1,0 +1,305 @@
+[
+  {
+    "id": "sales",
+    "name": "Sales",
+    "emoji": "🤝",
+    "active": [
+      {
+        "title": "Velora 續約傾價",
+        "status": "🔄進行中",
+        "detail": "舊約 8 月底到期。對方想加 social 排程,未報價。下一步:出兩檔方案。"
+      },
+      {
+        "title": "GlowLab 第二期提案",
+        "status": "🟡待跟進",
+        "detail": "第一期做完官網,對方問埋 email 自動化。等佢哋內部開完會。"
+      },
+      {
+        "title": "Kaito Ramen 分店查詢",
+        "status": "🔄進行中",
+        "detail": "開緊第二間分店,想要一個共用訂位系統。已約下星期二傾。"
+      }
+    ],
+    "done": [
+      {
+        "title": "舊客回訪名單整理",
+        "status": "✅完成 2026-08-04",
+        "detail": "12 個舊客,篩出 4 個有再合作訊號。"
+      }
+    ],
+    "tasks": [
+      {
+        "title": "Velora 續約傾價",
+        "status": "🔄進行中",
+        "detail": "舊約 8 月底到期。對方想加 social 排程,未報價。下一步:出兩檔方案。"
+      },
+      {
+        "title": "GlowLab 第二期提案",
+        "status": "🟡待跟進",
+        "detail": "第一期做完官網,對方問埋 email 自動化。等佢哋內部開完會。"
+      },
+      {
+        "title": "Kaito Ramen 分店查詢",
+        "status": "🔄進行中",
+        "detail": "開緊第二間分店,想要一個共用訂位系統。已約下星期二傾。"
+      },
+      {
+        "title": "舊客回訪名單整理",
+        "status": "✅完成 2026-08-04",
+        "detail": "12 個舊客,篩出 4 個有再合作訊號。"
+      }
+    ],
+    "source": "000_Agent/departments/sales/board.md",
+    "light": "run",
+    "lightReason": "2 單進行中"
+  },
+  {
+    "id": "ig-marketing",
+    "name": "IG & Marketing",
+    "emoji": "📣",
+    "active": [
+      {
+        "title": "8 月內容排程",
+        "status": "🔄進行中",
+        "detail": "已排到 8/14。仲差兩條 reel 腳本。"
+      },
+      {
+        "title": "Velora launch 倒數系列",
+        "status": "🟡待跟進",
+        "detail": "等對方最終產品相。相到就可以出 5 張圖卡。"
+      },
+      {
+        "title": "Hook 測試回收",
+        "status": "🔄進行中",
+        "detail": "上月 12 條 post,問題型開頭平均 reach 高 38%。"
+      }
+    ],
+    "done": [
+      {
+        "title": "7 月成效月報",
+        "status": "✅完成 2026-08-01",
+        "detail": "已交,對方回覆滿意。"
+      }
+    ],
+    "tasks": [
+      {
+        "title": "8 月內容排程",
+        "status": "🔄進行中",
+        "detail": "已排到 8/14。仲差兩條 reel 腳本。"
+      },
+      {
+        "title": "Velora launch 倒數系列",
+        "status": "🟡待跟進",
+        "detail": "等對方最終產品相。相到就可以出 5 張圖卡。"
+      },
+      {
+        "title": "Hook 測試回收",
+        "status": "🔄進行中",
+        "detail": "上月 12 條 post,問題型開頭平均 reach 高 38%。"
+      },
+      {
+        "title": "7 月成效月報",
+        "status": "✅完成 2026-08-01",
+        "detail": "已交,對方回覆滿意。"
+      }
+    ],
+    "source": "000_Agent/departments/ig-marketing/board.md",
+    "light": "run",
+    "lightReason": "2 單進行中"
+  },
+  {
+    "id": "seo-blog",
+    "name": "SEO & Blog",
+    "emoji": "🔎",
+    "active": [
+      {
+        "title": "GlowLab 產品頁 schema",
+        "status": "🔄進行中",
+        "detail": "Product + FAQ schema 已寫,等驗證工具過。"
+      },
+      {
+        "title": "8 月 blog 兩篇",
+        "status": "🟡待跟進",
+        "detail": "選題已定,未開筆。"
+      },
+      {
+        "title": "內部連結整理",
+        "status": "⏸暫停",
+        "detail": "等網站改版完先做,否則要做兩次。"
+      }
+    ],
+    "done": [
+      {
+        "title": "7 月排名月檢",
+        "status": "✅完成 2026-08-02",
+        "detail": "追蹤字 24 個,升 9 個、跌 3 個、平 12 個。"
+      }
+    ],
+    "tasks": [
+      {
+        "title": "GlowLab 產品頁 schema",
+        "status": "🔄進行中",
+        "detail": "Product + FAQ schema 已寫,等驗證工具過。"
+      },
+      {
+        "title": "8 月 blog 兩篇",
+        "status": "🟡待跟進",
+        "detail": "選題已定,未開筆。"
+      },
+      {
+        "title": "內部連結整理",
+        "status": "⏸暫停",
+        "detail": "等網站改版完先做,否則要做兩次。"
+      },
+      {
+        "title": "7 月排名月檢",
+        "status": "✅完成 2026-08-02",
+        "detail": "追蹤字 24 個,升 9 個、跌 3 個、平 12 個。"
+      }
+    ],
+    "source": "000_Agent/departments/seo-blog/board.md",
+    "light": "run",
+    "lightReason": "1 單進行中"
+  },
+  {
+    "id": "website-system",
+    "name": "Website & System",
+    "emoji": "🛠️",
+    "active": [
+      {
+        "title": "Velora 官網改版",
+        "status": "🔄進行中",
+        "detail": "首頁同產品頁已出稿,等對方睇。"
+      },
+      {
+        "title": "訂位系統時長分級",
+        "status": "🟡待跟進",
+        "detail": "服務時長唔同,格數要跟住變。等客戶確認真實時長先落實。"
+      }
+    ],
+    "done": [
+      {
+        "title": "Dashboard 對比度審查",
+        "status": "✅完成 2026-08-05",
+        "detail": "全站逐版實測 WCAG AA,修好白字白底同細字偏淺。"
+      },
+      {
+        "title": "每晚自動備份",
+        "status": "✅完成 2026-07-30",
+        "detail": "跑咗一星期,零失敗。"
+      }
+    ],
+    "tasks": [
+      {
+        "title": "Dashboard 對比度審查",
+        "status": "✅完成 2026-08-05",
+        "detail": "全站逐版實測 WCAG AA,修好白字白底同細字偏淺。"
+      },
+      {
+        "title": "Velora 官網改版",
+        "status": "🔄進行中",
+        "detail": "首頁同產品頁已出稿,等對方睇。"
+      },
+      {
+        "title": "訂位系統時長分級",
+        "status": "🟡待跟進",
+        "detail": "服務時長唔同,格數要跟住變。等客戶確認真實時長先落實。"
+      },
+      {
+        "title": "每晚自動備份",
+        "status": "✅完成 2026-07-30",
+        "detail": "跑咗一星期,零失敗。"
+      }
+    ],
+    "source": "000_Agent/departments/website-system/board.md",
+    "light": "run",
+    "lightReason": "1 單進行中"
+  },
+  {
+    "id": "production",
+    "name": "Production",
+    "emoji": "🏗️",
+    "active": [
+      {
+        "title": "GlowLab 產品相後製",
+        "status": "🔄進行中",
+        "detail": "32 張,執咗 18 張。"
+      },
+      {
+        "title": "Velora 開箱片剪接",
+        "status": "🟡待跟進",
+        "detail": "素材齊,等腳本定稿。"
+      },
+      {
+        "title": "圖卡模板 v2",
+        "status": "⏸暫停",
+        "detail": "等品牌色定案。"
+      }
+    ],
+    "done": [],
+    "tasks": [
+      {
+        "title": "GlowLab 產品相後製",
+        "status": "🔄進行中",
+        "detail": "32 張,執咗 18 張。"
+      },
+      {
+        "title": "Velora 開箱片剪接",
+        "status": "🟡待跟進",
+        "detail": "素材齊,等腳本定稿。"
+      },
+      {
+        "title": "圖卡模板 v2",
+        "status": "⏸暫停",
+        "detail": "等品牌色定案。"
+      }
+    ],
+    "source": "000_Agent/departments/production/board.md",
+    "light": "run",
+    "lightReason": "1 單進行中"
+  },
+  {
+    "id": "internal-audit",
+    "name": "Internal Audit",
+    "emoji": "🛡️",
+    "active": [
+      {
+        "title": "對外文案數字覆核",
+        "status": "🔄進行中",
+        "detail": "抽查 8 份文案,搵到 2 處數字冇出處。已列證據交返出稿部門。"
+      },
+      {
+        "title": "備份還原演練",
+        "status": "🟡待跟進",
+        "detail": "備份有跑,但未真試過還原。下星期做一次。"
+      }
+    ],
+    "done": [
+      {
+        "title": "權限清單覆核",
+        "status": "✅完成 2026-08-03",
+        "detail": "3 個舊協作者已無用,建議移除;決定權在老闆。"
+      }
+    ],
+    "tasks": [
+      {
+        "title": "對外文案數字覆核",
+        "status": "🔄進行中",
+        "detail": "抽查 8 份文案,搵到 2 處數字冇出處。已列證據交返出稿部門。"
+      },
+      {
+        "title": "備份還原演練",
+        "status": "🟡待跟進",
+        "detail": "備份有跑,但未真試過還原。下星期做一次。"
+      },
+      {
+        "title": "權限清單覆核",
+        "status": "✅完成 2026-08-03",
+        "detail": "3 個舊協作者已無用,建議移除;決定權在老闆。"
+      }
+    ],
+    "source": "000_Agent/departments/internal-audit/board.md",
+    "light": "run",
+    "lightReason": "1 單進行中"
+  }
+]

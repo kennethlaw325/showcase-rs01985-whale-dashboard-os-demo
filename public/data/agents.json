@@ -1,0 +1,102 @@
+[
+  {
+    "id": "content-creator",
+    "name": "內容創作",
+    "emoji": "✍️",
+    "role": "社群內容與帖文草稿",
+    "statusNote": "按平台與受眾產出可審閱的內容初稿",
+    "status": "idle",
+    "lastRun": null,
+    "outputCount": 0
+  },
+  {
+    "id": "meeting-organizer",
+    "name": "會議整理",
+    "emoji": "🗒️",
+    "role": "會議摘要與跟進事項",
+    "statusNote": "將原始會議記錄整理成清楚的行動項目",
+    "status": "idle",
+    "lastRun": null,
+    "outputCount": 0
+  },
+  {
+    "id": "doc-processor",
+    "name": "文書處理",
+    "emoji": "📄",
+    "role": "文件處理與格式整理",
+    "statusNote": "處理常見文件工作，輸出可覆核的成品",
+    "status": "idle",
+    "lastRun": null,
+    "outputCount": 0
+  },
+  {
+    "id": "client-crm",
+    "name": "客戶 CRM 跟進",
+    "emoji": "🤝",
+    "role": "客戶狀態與跟進節奏",
+    "statusNote": "找出需要跟進的客戶，整理下一步",
+    "status": "idle",
+    "lastRun": null,
+    "outputCount": 0
+  },
+  {
+    "id": "project-manager",
+    "name": "Project Manager",
+    "emoji": "📋",
+    "role": "今日計劃與優先排序",
+    "statusNote": "協助揀出最值得完成的工作",
+    "status": "idle",
+    "lastRun": null,
+    "outputCount": 0
+  },
+  {
+    "id": "finance",
+    "name": "Finance",
+    "emoji": "💰",
+    "role": "收支整理與月報",
+    "statusNote": "將帳目整理成可核對的財務概覽",
+    "status": "idle",
+    "lastRun": null,
+    "outputCount": 0
+  },
+  {
+    "id": "excel-analyst",
+    "name": "Excel 數據分析",
+    "emoji": "📊",
+    "role": "CSV／Excel 資料分析",
+    "statusNote": "將表格資料變成可理解的重點",
+    "status": "idle",
+    "lastRun": null,
+    "outputCount": 0
+  },
+  {
+    "id": "trend-research",
+    "name": "Trend Research",
+    "emoji": "🔭",
+    "role": "趨勢研究與觀察",
+    "statusNote": "彙整新訊號，標示待查證項目",
+    "status": "idle",
+    "lastRun": null,
+    "outputCount": 0
+  },
+  {
+    "id": "data-consolidation",
+    "name": "Data Consolidation",
+    "emoji": "🧩",
+    "role": "多來源資料整合",
+    "statusNote": "把分散資料整理成一致的可用格式",
+    "status": "idle",
+    "lastRun": null,
+    "outputCount": 0
+  },
+  {
+    "id": "whatsapp-secretary",
+    "name": "WhatsApp 私人秘書",
+    "emoji": "💬",
+    "role": "訊息整理與行政支援",
+    "statusNote": "協助整理訊息脈絡與待辦事項",
+    "status": "idle",
+    "lastRun": null,
+    "outputCount": 0
+  }
+]

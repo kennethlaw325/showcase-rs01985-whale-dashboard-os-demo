@@ -1,0 +1,28 @@
+{
+  "date": "2026-05-26",
+  "taskIds": [],
+  "note": "今日未有正式 daily log。以下是最新 CEO priority queue，只作今日建議焦點，並非已寫入的待辦。",
+  "source": "ceo-priority",
+  "suggestedFocus": [
+    {
+      "title": "出 Velora 續約兩檔方案",
+      "why": "對方已經問咗兩次,拖唔落去。"
+    },
+    {
+      "title": "問實五個服務時長",
+      "why": "錯咗會撞單,係唯一會直接影響客人嘅風險。"
+    },
+    {
+      "title": "還原測試",
+      "why": "未試過還原 = 冇備份。"
+    },
+    {
+      "title": "GlowLab 報價",
+      "why": "熱查詢,拖耐會凍。"
+    },
+    {
+      "title": "列月費工具總表",
+      "why": "唔知總數就無從減。"
+    }
+  ]
+}

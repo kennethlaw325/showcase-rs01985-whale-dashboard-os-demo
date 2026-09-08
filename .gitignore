@@ -1,0 +1,35 @@
+node_modules
+dist
+.DS_Store
+*.local
+.vite
+tsconfig.tsbuildinfo
+
+# Security — never commit secrets
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+*.p12
+*.pfx
+secrets.json
+credentials.json
+
+# Local-only vault paths (學員 import 自己 vault 用)
+/vault/
+
+# Action Desk 本機待批草稿；只在 npm run dev 由使用者確認後產生
+/pending/
+
+.vercel
+
+# 教材唔上 public repo（本地保留）
+/teaching/
+/skills-pack/
+STUDENT-HANDBOOK.md
+handbook.html
+implementation-notes.html
+scripts/build-handbook-html.mjs
+/nightbuild-*.log
+/dayrun-*.log
